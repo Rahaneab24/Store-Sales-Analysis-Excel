@@ -14,8 +14,8 @@ Microsoft Excel — PivotTables, PivotCharts, data aggregation
 
 
 ## 📈 Analysis Performed
-Age vs. Gender breakdown — order share split by age group (Teenager/Adult/Senior) and gender
-Sales channel performance — order distribution across Amazon, Flipkart, Myntra, Ajio, Meesho, Nalli, and others
+Age vs. Gender breakdown — order share split by age group (Teenager/Adult/Senior) and gender  
+Sales channel performance — order distribution across Amazon, Flipkart, Myntra, Ajio, Meesho, Nalli, and others  
 Order status tracking — Delivered, Cancelled, Returned, and Refunded order counts
 Revenue by state — top-performing states by total sales amount
 Revenue by gender — total sales contribution split between men and women
