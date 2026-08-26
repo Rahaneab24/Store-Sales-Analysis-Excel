@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Store Sales Analysis — Excel
+# 👨🏻‍💻 Store Sales Analysis—Excel
 Annual retail sales analysis (2022) built entirely in Excel using PivotTables, covering ~31,000 orders across multiple e-commerce channels, states, and customer demographics.
 
 ## 📊 Project Overview
