@@ -16,10 +16,10 @@ Microsoft Excel — PivotTables, PivotCharts, data aggregation
 ## 📈 Analysis Performed
 Age vs. Gender breakdown — order share split by age group (Teenager/Adult/Senior) and gender  
 Sales channel performance — order distribution across Amazon, Flipkart, Myntra, Ajio, Meesho, Nalli, and others  
-Order status tracking — Delivered, Cancelled, Returned, and Refunded order counts
-Revenue by state — top-performing states by total sales amount
-Revenue by gender — total sales contribution split between men and women
-Monthly sales trend — order count and revenue by month across the full year
+Order status tracking — Delivered, Cancelled, Returned, and Refunded order counts<br>
+Revenue by state — top-performing states by total sales amount<br>
+Revenue by gender — total sales contribution split between men and women<br>
+Monthly sales trend — order count and revenue by month across the full year<br>
 
 ## 💡 Key Insights
 Women account for ~65% of purchases, generating ₹13.56M in sales vs. ₹7.61M from men
